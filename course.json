@@ -1,0 +1,58 @@
+{
+  "School_of_Engineering": {
+    "CSE": {
+      "Course_Structure": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_7f99abe5bb66465c8a99aeee4d6a3942.pdf",
+      "Syllabus": {
+        "I - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+        "I - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_e09eb92d12f94b2b960e00f3fa0f4075.pdf",
+        "II - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4c1fcf72ddf14d939d520fcba3e675d5.pdf",
+        "II - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_70d0e9de279f4a4aabe4866030541a21.pdf"
+      }
+    },
+    "CSE_AIML": {
+      "Course_Structure": "View Details",
+      "Syllabus": {
+        "I - I Sem": "Syllabus",
+        "I - II Sem": "Syllabus",
+        "II - I Sem": "Syllabus",
+        "II - II Sem": "Syllabus"
+      }
+    },
+    "CSE_DATA_SCIENCE": {
+      "Course_Structure": "View Details",
+      "Syllabus": {
+        "I - I Sem": "Syllabus",
+        "I - II Sem": "Syllabus",
+        "II - I Sem": "Syllabus",
+        "II - II Sem": "Syllabus"
+      }
+    },
+    "CSE_CYBER_SECURITY": {
+      "Course_Structure": "View Details",
+      "Syllabus": {
+        "I - I Sem": "Syllabus",
+        "I - II Sem": "Syllabus",
+        "II - I Sem": "Syllabus",
+        "II - II Sem": "Syllabus"
+      }
+    },
+    "CSE_IoT": {
+      "Course_Structure": "View Details",
+      "Syllabus": {
+        "I - I Sem": "Syllabus",
+        "I - II Sem": "Syllabus",
+        "II - I Sem": "Syllabus",
+        "II - II Sem": "Syllabus"
+      }
+    },
+    "INFORMATION_TECHNOLOGY": {
+      "Course_Structure": "View Details",
+      "Syllabus": {
+        "I - I Sem": "Syllabus",
+        "I - II Sem": "Syllabus",
+        "II - I Sem": "Syllabus",
+        "II - II Sem": "Syllabus"
+      }
+    }
+  }
+}
