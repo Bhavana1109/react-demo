@@ -1,0 +1,27 @@
+[
+  {
+    "Sl. No.": 1,
+    "NAME OF THE EVENT": "CLUB ACTIVITY INAUGRATION",
+    "DATE THE EVENT": "27-11-2021",
+    "Details": {
+      "View details": "0c0246_e207cc0d79614b9aa266c27966012151.pdf"
+    }
+  },
+  {
+    "Sl. No.": 2,
+    "NAME OF THE EVENT": "FIVE-DAY WORKSHOP ON WEBSITE DESIGN AND DEVELOPMENT",
+    "DATE THE EVENT": "14-12-2021 to 18-12-2021",
+    "Details": {
+      "View details": "0c0246_e207cc0d79614b9aa266c27966012151.pdf"
+    }
+  },
+  {
+    "Sl. No.": 3,
+    "NAME OF THE EVENT": "UDHBHAVA, Technical club Activity-'YOUR START-UP STORY'",
+    "DATE THE EVENT": "04-12-2021",
+    "Details": {
+      "View details": "0c0246_e207cc0d79614b9aa266c27966012151.pdf"
+    }
+  },
+  // Add more events with corresponding PDF links
+]
